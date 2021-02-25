@@ -23,7 +23,7 @@ Analyze tweets to Revolut to understand opportunities to address customer needs.
 
 Top four topics and the corresponding top 6 words within each topic:
 
-<img src="02-ghimages/rev_topics.png" alt="topics" width="400"/>
+<img src="02-ghimages/rev_topics.png" alt="topics" width="600"/>
 
 ## Insights
 
