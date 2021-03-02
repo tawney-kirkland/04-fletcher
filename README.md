@@ -27,7 +27,7 @@ Top four topics and the corresponding top 6 words within each topic:
 
 ## Insights
 
-The fingings provide helpful insights for Revolut.
+The fingings provide helpful insights for companies using Twitter.
 
 **App support**: When there is a new version release, Revolut should expect an increase in tweets and a reduction in sentiment overall due to potential bugs.
 * Consider some type of in-app messaging encouraging the use of in-app support. Point being that we want to keep Twitter as a last resort for query requests.
